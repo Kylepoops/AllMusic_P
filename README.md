@@ -1,4 +1,4 @@
-# AllMusic插件
+# AllMusic插件 
 
 一个全服点歌插件，需要配合 [Mod](https://github.com/HeartAge/AllMusic_M/) 使用
 
